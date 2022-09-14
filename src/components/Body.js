@@ -1,6 +1,6 @@
 import { Favorite, MoreHoriz, PlayCircleFilled } from "@mui/icons-material";
 import React from "react";
-import "./css/Body.css";
+import "../css/Body.css";
 import { useDataLayerValue } from "./DataLayer";
 import Header from "./Header";
 import SongRow from "./SongRow";

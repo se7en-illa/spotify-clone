@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/Header.css";
+import "../css/Header.css";
 import SearchIcon from "@mui/icons-material/Search";
 import { Avatar } from "@mui/material";
 import { useDataLayerValue } from "./DataLayer";

@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/Footer.css";
+import "../css/Footer.css";
 import PlayCircleOutlineIcon from "@mui/icons-material/PlayCircleOutline";
 import SkipPreviousIcon from "@mui/icons-material/SkipPrevious";
 import SkipNextIcon from "@mui/icons-material/SkipNext";

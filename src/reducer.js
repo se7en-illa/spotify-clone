@@ -8,8 +8,7 @@ export const initialState = {
   //"BQBNT6_7V3mwkc5MDLgSEZl1DzKr8HeKxr2u4N3dbzBDs7h-JrRVvZyiH7c6aAE2AYqwBza9lBUR5XQH51P2rgG9t7o_3tM1Uc9usD0-TKmvSdKxh6V2r_H6k4tDlp-mOMjyWnXVoIA0qtboYbgZfkGrSI42gmBen5YMmncdLWht67izHVO-c72WukCrlT5D",
 };
 const reducer = (state, action) => {
-  console.log(action);
-  console.log("💯💯💯💯💯💯");
+  console.log("💯💯💯💯💯💯", action);
 
   switch (action.type) {
     case "SET_USER":

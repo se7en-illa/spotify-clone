@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./css/index.css";
-import App from "./App";
+import App from "./components/App";
 import reportWebVitals from "./reportWebVitals";
-import { DataLayer } from "./DataLayer";
+import { DataLayer } from "./components/DataLayer";
 import reducer, { initialState } from "./reducer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));

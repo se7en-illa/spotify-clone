@@ -1,6 +1,6 @@
 import "./App.js";
-import "./css/Login.css";
-import { loginUrl } from "./spotify";
+import "../css/Login.css";
+import { loginUrl } from "../spotify";
 
 function Login() {
   return (

@@ -1,5 +1,5 @@
 import "./App.js";
-import "./css/Player.css";
+import "../css/Player.css";
 import Sidebar from "./Sidebar";
 import Body from "./Body";
 import Footer from "./Footer";
